@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "test": "nodemon --exec babel-node lib/index.js"
+  },
+  "name": "YelpBot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "William Rory Kronmiller",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "irc": "^0.5.2",
+    "prob.js": "^1.0.6",
+    "yelp-fusion": "^1.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
