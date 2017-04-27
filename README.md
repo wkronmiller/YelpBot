@@ -1,0 +1,2 @@
+# YelpBot
+IRC Yelp Bot
